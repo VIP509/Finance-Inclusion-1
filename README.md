@@ -13,7 +13,7 @@ According to the FinScope 2018 survey, approximately 11% of Haitians have access
 It is undoubtedly true that, until now, bank accounts and electronic money systems are only available to a part of the population. However, with the help of the Bill and Melinda Gates Foundation and the United States Agency for International Development (USAID), a competition was held in 2010 to push financial institutions and mobile network operators (MNO)  to set up alternative solutions through mobile money to enable financial inclusion in a post-earthquake context. However, few digital financial services have been able to stay alive like Digicel's MonCash, which currently plays an important role in providing financial services (person-to-person transfers, payments, etc.).
 It is important for financial institutions in collaboration with startups to develop innovative and alternative solutions to allow the Haitian population to benefit from financial products and services adapted to their real needs.
 
-* The objective of this project is to determine if machine learning can help classify individuals on a mobile network according to the probability of using mobile money and financial services. Financial Services providers  and cell phone operators can use the model’s prediction for data-driven decisions on marketing strategies like boosting and promoting  to better target their audience.
+* The objective of this project is to determine if machine learning can help classify individuals according to the probability of using diverses financial services. Financial Services providers  and cell phone operators can use the model’s prediction for data-driven decisions on marketing strategies like boosting and promoting  to better target their audience.
 
  The advantage of telephone-based financial services is that their infrastructure offers wider coverage at lower cost.
 
@@ -37,6 +37,6 @@ I am also looking for a dataset about the mapping of all the financial services 
   Analyse the financial inclusion in Haiti to provide a model that can accurately classify an individual.
   
   
-  Establish whether or not demographic and socio-economic variables exist that make it more or less likely that an individual will use mobile money and/or other financial services.
+  Establish whether or not demographic and socio-economic variables exist that make it more or less likely that an individual will use financial services.
 
 
